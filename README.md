@@ -2,7 +2,7 @@
 
 A machine-learning project that predicts **California median house values** from location, housing and income features, with an interactive **Streamlit web app** for making predictions, comparing models and exploring the data.
 
-![Dashboard](screenshots/dashboard.png)
+![dashboard](screenshots/dashboard.png)
 
 ---
 
