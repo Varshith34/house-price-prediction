@@ -43,7 +43,6 @@ Two regression models are trained and compared: a **Decision Tree Regressor** an
 
 ## 💡 Why I Chose This Project
 
-> ✏️ *Edit this section so it is in your own words — it is the part reviewers and recruiters read most closely.*
 
 - **Real-world relevance:** price estimation is a classic, practical regression problem used in real estate, banking and insurance.
 - **Complete end-to-end practice:** it let me work through every stage of a data-science project, from raw CSV to a deployed app, instead of stopping at a notebook.
@@ -293,9 +292,9 @@ Open `notebooks/House_Price_Prediction.ipynb` (originally run in Google Colab), 
 **Pulusu Venkata Naga Varshith**
 B.Tech, Computer Science and Engineering — Amrita Vishwa Vidyapeetham, Chennai
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: *add your link*
-- Email: *add your email*
+- GitHub: [Varshith34](https://github.com/Varshith34)
+- LinkedIn: *https://www.linkedin.com/in/varshith-naga-2904a532b/*
+- Email: *varshithnagaa34@gmail.com*
 
 ---
 
